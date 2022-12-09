@@ -1,0 +1,55 @@
+javascript refrance k liye 2 website
+1.w3cschools (javascript tutorials)
+2.javascript.info
+
+javascript is a frontend and backend both are useing
+
+javascript is build/devlop by Brandon eich in 1995
+
+javascript offical name is ECMA script
+
+ECMA = European computer manufacturers Association
+
+in 1997 nescape company is handover by javascript on ECMA
+
+in 1997 ecma lauch his first version that is called ES-1
+
+ES = ecma script
+
+ES-6 are very important version in current time
+
+javascript is a world most propular languague
+
+if you write the js code in 3 place
+1.before the closing of head tag
+2.before the closing of body tag
+3.external
+
+the first method to check js output is console.log()
+
+anything which is terminated by a semi-colon (;) is called    statement
+
+variables are like a containers / bucket
+
+humye kisi data ko hold rakhna he to asi situation me hum bnate he variables
+variables bnane k liye hum var word ka use krte hain
+ex--
+var x = 10;
+var y = 20;
+
+hum sbhi maths ke opretion java script main krwa skte hain
++ (addition)
+-(subtration)
+*(multiplatikon)
+/(divison)
+%(modulus)
+++(increment)
+--(decrement)
+this whole are arithmatic opretor
+
+js output dekhe ka dusra tarika he window.alert
+1.console.log
+2.window.alert
+
+
+
